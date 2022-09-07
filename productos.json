@@ -1,0 +1,83 @@
+[
+    {
+        "nombre": "Igloo",
+        "marca": "Waterdog",
+        "modelo": "Aral",
+        "precio": 120000,
+        "stock": 5,
+        "img": "aral 8.jpg"
+    },
+    {
+        "nombre": "Bolsa de dormir",
+        "marca": "Nat Geo",
+        "modelo": "Climb",
+        "precio": 35000,
+        "stock": 20,
+        "img": "bolsa nat geo.jpg"
+    },
+    {
+        "nombre": "Conservadora",
+        "marca": "Coleman",
+        "modelo": "35 L",
+        "precio": 32000,
+        "stock": 15,
+        "img": "conser coleman.jpg"
+    },
+    {
+        "nombre": "linterna",
+        "marca": "stanley",
+        "modelo": "Tactica",
+        "precio": 8000,
+        "stock": 30,
+        "img": "linternas.jpg"
+    },
+    {
+        "nombre": "Mochila",
+        "marca": "Doite",
+        "modelo": "Leonera 40 L",
+        "precio": 56000,
+        "stock": 7,
+        "img": "moch doite.jpg"
+    },
+    {
+        "nombre": "guantes",
+        "marca": "Red Fish",
+        "modelo": "uv",
+        "precio": 4000,
+        "stock": 20,
+        "img": "guantes.jpg"
+    },
+    {
+        "nombre": "Reel",
+        "marca": "Spinit",
+        "modelo": "Sx 30",
+        "precio": 8500,
+        "stock": 10,
+        "img": "reel.jpg"
+    },
+    {
+        "nombre": "Chaleco",
+        "marca": "Kunnan",
+        "modelo": "fly fishing",
+        "precio": 25000,
+        "stock": 30,
+        "img": "chaleco.jpg"
+    },
+    {
+        "nombre": "silla",
+        "marca": "Kushiro",
+        "modelo": "Director",
+        "precio": 17.500,
+        "stock": 21,
+        "img": "silla.jpg"
+    },
+    {
+        "nombre": "binoculares",
+        "marca": "tasco",
+        "modelo": "12x50",
+        "precio": 25000,
+        "stock": 25,
+        "img": "binoculares.jpg"
+    }
+    
+]
